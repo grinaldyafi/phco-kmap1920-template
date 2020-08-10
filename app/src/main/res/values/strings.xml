@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PHCo KMAP 19–20</string>
+    <string name="tagline">Rajut Ukhuwah, Lanjutkan Perjuangan Dakwah.</string>
+        <string name="name_phco">Nama phco</string>
+        <string name="content_main">15 phco Indonesia</string>
+        <string name="content_est">Berdiri Asal phco</string>
+        <string name="overview">overview</string>
+        <string name="phco_identity">Identitas phco</string>
+        <string name="phco_about">Detail</string>
+        <string name="content_overview">content overview</string>
+        <string name="content_identity">content identity</string>
+        <string name="title_identity">Berdiri \nAsal phco \nStadion </string>
+        <string name="name_me">KMAP Al-Khawarizmi</string>
+        <string name="email_me">KMAP singkatan dari Keluarga Muslim Alumni Padmanaba, merupakan sebuah wadah bagi semua alumni muslim SMA Negeri 3 Yogyakarta yang terpanggil hatinya untuk meneruskan
+            perjuangan dakwah di SMA Negeri 3 Yogykarta dengan harapan bisa menjadi insan yang lebih baik dan mengajak orang lain kepada kebaikan.\n\n kmappadz.blogspot.com \n YouTube: KMAP Al-Khawarizmi \n Line: @fzq1977u \n IG: @kmap.padz</string>
+<string name="listname">Profile</string>
+    <string name="listname_about">About</string>
+</resources>
+
+
+
+
+
